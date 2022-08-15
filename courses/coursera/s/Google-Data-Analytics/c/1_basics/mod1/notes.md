@@ -73,3 +73,39 @@ The basic process to do data analysis:
         * Data analysts perfer speed in their ability to generate new insights from raw data. They also like "open ended projects" and things that require a lot of independence.
 
 </details>
+
+<details>
+<summary>Video 1.1.5: What is the data ecosystem?</summary>
+
+* "Key Ideas" highlighted by the makers of this video, verbatim:
+    * An ecosystem is a group of elements that interact to produce, manage, store, organize, analyze, and share data.
+    * Data can be found in something called the cloud, rather than on a computer hard drive.
+    * For example, you could tap into your retail store’s database, which is filled with customer names, addresses, previous purchases, and customer reviews.
+    * You could use this information to predict what these customers will buy in the future.
+    * Agricultural companies regularly use data ecosystems that include geological patterns and weather movements.
+    * Some data analysts are even using data ecosystems to save real environmental ecosystems.
+    * Data science is defined as creating new ways of modeling and understanding the unknown using raw data.
+    * Data analysis is the collection, transformation, and organization of data to draw conclusions, make predictions, and drive informed decision making.
+    * __Data analytics:__ is the science of data.
+        * This is not to be confused with "data _analysis_".
+    
+* __Data ecosystems:__ are the various elements that interact with one another in order to produce, manage, store, organize, analyze and share data.
+* __Cloud:__ is a place to keep data online, as opposed to a computer hard drive.
+* __Data science:__ is creating new ways of modelling and understanding the unknown by using raw data.
+
+</details>
+
+<details>
+<summary>Video 1.1.6: How data informs better decisions</summary>
+
+* "Key Ideas" highlighted by the makers of this video, verbatim:
+    * __Data-driven decision making__ is defined as using facts to guide business strategy.
+    * Organizations in various industries are constantly empowered to make better, data-driven decisions through data analysts.
+    * A data analyst finds data, analyzes it, and uses it to uncover trends, patterns, and relationships.
+    * Sometimes the data-driven strategy will build on what has worked in the past.
+    * Other times, it can guide a business to branch out in a whole new direction.
+    * Data-driven decision making can be so powerful that it can make entire business methods obsolete.
+    * Data analysts play a critical role in ensuring that data are built into every business strategy.
+    * Data alone will never be as powerful as data combined with human experience, observation, and intuition.
+
+</details>
